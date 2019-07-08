@@ -1,0 +1,67 @@
+/* vb */
+#vb{
+  background:linear-gradient(to right,#999 ,#eee, #eee ,#999);
+  box-shadow:inset 0px 0px 10px rgba(41, 41, 41, 0.5);
+}
+/* vcard */
+.vcard{
+   color:rgb(189, 189, 189);  
+  }
+  /* cherry */
+.cherry1{  
+  box-shadow: -1px -1px 0px rgb(182, 182, 182),1px 1px 0 rgb(221, 221, 221);
+}
+.cherry2{
+  box-shadow: -1px -1px 0px rgb(182, 182, 182),1px 1px 0 rgb(221, 221, 221);
+}
+/* vbname */
+#vbname{
+color:rgb(228, 228, 228);
+text-shadow: -1px -1px 2px rgb(156, 156, 156),2px 2px 2px rgb(155, 155, 155);
+}
+#vc{
+  background:linear-gradient(to right,#999 ,#eee, #eee ,#999);
+  box-shadow:inset 0px 0px 10px rgba(41, 41, 41, 0.5);  
+}
+/* ear */
+#ear{
+  background:rgb(214, 214, 214);
+  box-shadow:-1px -1px 0px #999;
+}
+/* header */
+#header{  
+  background:rgba(235, 235, 235,0.6);
+}
+#header p{
+  
+}
+#header .a{
+  background:black;
+}
+#header .b{
+  border:1px solid #000;
+}
+#header .b1{
+  background:black;
+ }
+#header .b2{
+  background: black;
+}
+/* main */
+#main{
+  background:rgb(255, 255, 255);
+  box-shadow: inset 0px 0px 10px rgb(129, 129, 129); 
+}
+#main .skillt{
+  text-shadow:0 0 5px rgb(82, 82, 82);
+}
+/* button */
+#footer button{
+   background:rgb(211, 211, 211);
+   box-shadow:-2px -2px 0 rgb(255, 255, 255);
+}
+#footer button:hover{
+  background:radial-gradient(white,rgb(154, 154, 154),white);
+  color:rgb(135, 135, 135);
+  text-shadow:-1px -1px 0 rgb(0, 0, 0),1px 1px 0 rgb(255, 255, 255);
+}

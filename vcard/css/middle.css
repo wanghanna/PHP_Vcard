@@ -1,0 +1,40 @@
+/* header */
+#header{  
+  background:rgba(225, 225, 225, 0.6);
+}
+#header p{
+}#header .a{
+  background:rgb(128, 128, 128);
+}
+#header .b{
+  border:1px solid rgb(128, 128, 128);
+}
+#header .b1{
+  background:rgb(128, 128, 128);
+ }
+#header .b2{
+  background: rgb(128, 128, 128);
+}
+/* main */
+#main{
+  background:rgb(230, 230, 230);
+  box-shadow: inset 0px 0px 10px rgb(122, 122, 122); 
+  color: rgb(128, 128, 128);
+}
+#main .p{
+}
+#main .job{
+  border-bottom:1px solid rgb(128, 128, 128);;
+}
+#main .content span{
+  background:rgb(221, 221, 221);
+  color:rgb(122, 122, 122);
+  box-shadow:  inset 1px 1px 0px rgb(78, 78, 78);
+}
+#main .skillt{
+  text-shadow:0 0 5px rgb(144, 144, 144);
+}
+#main #skill{
+  color:rgb(128, 128, 128);
+  border:1px solid rgb(128, 128, 128);  
+}
